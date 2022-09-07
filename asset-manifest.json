@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.778eeed7.css",
-    "main.js": "/home/static/js/main.cd14aa46.js",
-    "static/js/787.7ec99a0e.chunk.js": "/home/static/js/787.7ec99a0e.chunk.js",
-    "static/media/nilsonmax.png": "/home/static/media/nilsonmax.e995d629cc01871c7fdd.png",
-    "static/media/cybermax.jpg": "/home/static/media/cybermax.289d3d614689e1926400.jpg",
-    "static/media/Metin_copia.png": "/home/static/media/Metin_copia.d952c009249f6b5d626a.png",
-    "static/media/colegio.jpg": "/home/static/media/colegio.5c49517e0cb2c32ef5b6.jpg",
-    "index.html": "/home/index.html",
-    "main.778eeed7.css.map": "/home/static/css/main.778eeed7.css.map",
-    "main.cd14aa46.js.map": "/home/static/js/main.cd14aa46.js.map",
-    "787.7ec99a0e.chunk.js.map": "/home/static/js/787.7ec99a0e.chunk.js.map"
+    "main.css": "/portfolio-NilsonMax/static/css/main.778eeed7.css",
+    "main.js": "/portfolio-NilsonMax/static/js/main.307b2f88.js",
+    "static/js/787.7ec99a0e.chunk.js": "/portfolio-NilsonMax/static/js/787.7ec99a0e.chunk.js",
+    "static/media/nilsonmax.png": "/portfolio-NilsonMax/static/media/nilsonmax.e995d629cc01871c7fdd.png",
+    "static/media/cybermax.jpg": "/portfolio-NilsonMax/static/media/cybermax.289d3d614689e1926400.jpg",
+    "static/media/Metin_copia.png": "/portfolio-NilsonMax/static/media/Metin_copia.d952c009249f6b5d626a.png",
+    "static/media/colegio.jpg": "/portfolio-NilsonMax/static/media/colegio.5c49517e0cb2c32ef5b6.jpg",
+    "index.html": "/portfolio-NilsonMax/index.html",
+    "main.778eeed7.css.map": "/portfolio-NilsonMax/static/css/main.778eeed7.css.map",
+    "main.307b2f88.js.map": "/portfolio-NilsonMax/static/js/main.307b2f88.js.map",
+    "787.7ec99a0e.chunk.js.map": "/portfolio-NilsonMax/static/js/787.7ec99a0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.cd14aa46.js"
+    "static/js/main.307b2f88.js"
   ]
 }
