@@ -23,13 +23,13 @@ const mainBody = {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/nilson-max-benitez-marquez/",
     },
-    {
-      image: "fa-solid fa-blog",
-      url: "https://www.instagram.com/hashirshoaeb/",
-    },
+    // {
+    //   image: "fa-solid fa-blog",
+    //   url: "https://www.instagram.com/nilsonmax/",
+    // },
     // {
     //   image: "fa-twitter",
-    //   url: "https://www.twitter.com/hashirshoaeb/",
+    //   url: "https://www.twitter.com/nilsonmax/",
     // },
   ],
 };
@@ -44,7 +44,7 @@ const about = {
   message_1: "🔶Soy Desarrollador 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 (𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 - 𝐁𝐚𝐜𝐤𝐞𝐧𝐝) e 𝐈𝐧𝐠𝐞𝐧𝐢𝐞𝐫𝐨 𝐞𝐧 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐚, altamente entusiasta en aprender las mejores practicas para mejorar como profesional, disfruto mucho explorar nuevas tecnologías, estándares y métodos que me permitan desarrollar aplicaciones modernas y potentes.",
   message_2: "🔶Soy una persona apasionada con los retos, me gusta mucho ayudar a las personas que me rodean en mi ámbito laboral o personal, cuando entiendo las problemáticas de un proyecto para brindar una optima solución, la comparto con todo el equipo, si ellos les va bien a mi también, no soy egoísta.",
   message_3: "🔶Me gusta enseñar lo que se, y eso me ayuda a mejorar cada día lo que domino y crear una red de amigos que también me ensañan lo que saben, siempre estoy dispuesto aprender mas, ya que la curiosidad es una cualidad que me caracteriza, soy autodidacta, pues siempre quiero saber de manera integral, específica y general acerca de cualquier tema.",
-  resume: "https://drive.google.com/file/d/1jM8G6FSCWNfRCiT0exJYCgq9lUaDM877/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/14qOXz6Ldzv6nrHBmYQvitUc1Gl7Q8Am2/view?usp=sharing",
 };
 
 // PROJECTS SECTION
